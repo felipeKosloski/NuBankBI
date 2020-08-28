@@ -11,4 +11,4 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
 
 3 - Seguir os passos no arquivo do Colab</br></br>
 
-4 - Abra o Power BI e clique em Atualizar.
+4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.
