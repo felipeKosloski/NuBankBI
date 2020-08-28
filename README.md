@@ -12,7 +12,7 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
 
 3 - Após a importação, preencha seus dados no notebook 
 
-3 - Aperte ctrl + f9 e execute todas as
+3 - Aperte CTRL + F9 e execute todas as células
 
 3 - Seguir os passos no arquivo do Colab</br></br>
 
