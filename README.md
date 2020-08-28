@@ -5,6 +5,8 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
 1 - Realizar o download e instalar o Power BI Desktop. <br>
     Link: <a href="https://www.microsoft.com/pt-BR/download/details.aspx?id=58494">Link para download</a></br>
     Dica: baixe a versão de 64 bits</br></br>
+    ![PBI-Download](https://user-images.githubusercontent.com/28153841/91616556-ea426a80-e953-11ea-92e2-a224aee3dfb7.png)
+
     
 2 - Importar o notebook para sua conta do google colab. <br>
     Link: <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">Link para download</a></br></br>
