@@ -11,9 +11,10 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
     ![importNotebook](https://user-images.githubusercontent.com/28153841/91622967-84f87480-e967-11ea-9ce6-5abf0e9d66ca.jpg)
 
 3 - Após a importação, preencha seus dados no notebook 
+    ![preence](https://user-images.githubusercontent.com/28153841/91623146-3c8d8680-e968-11ea-98a3-bbcab0689963.png)
 
-3 - Aperte CTRL + F9 e execute todas as células
+5 - Aperte CTRL + F9 e execute todas as células
 
-3 - Seguir os passos no arquivo do Colab</br></br>
+3 - Siga os passos no arquivo do Colab</br></br>
 
 4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.
