@@ -17,7 +17,7 @@ Para executar o projeto, siga os seguintes passos:</br>
 
  - Aperte CTRL + F9 e execute todas as células
 
- - Siga os passos no arquivo do Colab</br></br>
+ - Siga os passos no arquivo do Colab</br>
 
  - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
  
