@@ -24,7 +24,7 @@ Para executar o projeto, siga os seguintes passos:</br>
  
  - Ao fim do processo do colab, o resultado esperado é o download automático de dois arquivos.</br>
  
- - ### Após o download dos dois arquivos nuconta.txt e credito.txt continue com esses passos:
+ - ### Após o download dos dois arquivos nuconta.txt e credito.txt continue com esses passos no Power BI baixado na primeira etapa, arquvio **BI NuBank 2.0**:
 
  - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
  
