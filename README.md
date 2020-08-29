@@ -35,9 +35,14 @@ Siga os passos a seguir para selecionar a fonte de dados:
 
 ![WhatsApp Image 2020-08-28 at 20 02 44](https://user-images.githubusercontent.com/28153841/91623687-5af48180-e96a-11ea-98d4-f5083def830c.jpeg)
 
+ - Na parte superior esquerda, cliquei em "Fechar e Aplicar". </br>
+ 
+ ![WhatsApp Image 2020-08-28 at 20 20 25](https://user-images.githubusercontent.com/28153841/91624039-21bd1100-e96c-11ea-9106-5e4ed07cecfd.jpeg)
+ 
+ 
  - Repita o passo para a tabela "cartão" 
 
-![WhatsApp Image 2020-08-28 at 20 03 16](https://user-images.githubusercontent.com/28153841/91623682-55973700-e96a-11ea-8a55-602cd48e76e3.jpeg)
+
 
 
 
