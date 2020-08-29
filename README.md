@@ -4,12 +4,15 @@ A ideia do projeto é tornar a analise dos gastos do cartão e da nuconta mais f
 
 Para executar o projeto, siga os seguintes passos:</br>
 
+ - Nesta mesma página, clique no botão verde "code" e selecione a opção "Download zip" </br>
+
  - Faça o download e instale o Power BI Desktop. <br>
-    Link: <a href="https://www.microsoft.com/pt-BR/download/details.aspx?id=58494">Link para download</a></br>
+    Link: <a href="https://www.microsoft.com/pt-BR/download/details.aspx?id=58494" target="_blank">Link para download</a></br>
     Dica: baixe a versão de 64 bits</br></br>
     
  - Importe o notebook para sua conta do google colab. <br>
-    Link: <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">Link para download</a></br></br>
+  - O notebook é o arquivo com a extensão ipynb dentro da pasta baixado no primeiro passo.</br>
+    Link: <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true" target="_blank">Link para download</a></br></br>
     ![importNotebook](https://user-images.githubusercontent.com/28153841/91622967-84f87480-e967-11ea-9ce6-5abf0e9d66ca.jpg)
 
  - Após a importação, preencha seus dados no notebook 
