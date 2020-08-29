@@ -20,7 +20,11 @@ Para executar o projeto, siga os seguintes passos:</br>
 
  - Aperte CTRL + F9 e execute todas as células
 
- - Siga os passos no arquivo do Colab</br>
+ - Siga os passos no arquivo do Colab. </br></br>
+ 
+ - Ao fim do processo do colab, o resultado esperado é o download automático de dois arquivos.</br>
+ 
+ - ### Após o download dos dois arquivos nuconta.txt e credito.txt continue com esses passos:
 
  - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
  
