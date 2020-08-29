@@ -1,23 +1,25 @@
 # NuBankBI
 
-Para executar o projeto e visualizar suas finanças de maneira simples você vai precisar:</br>
+A ideia do projeto é tornar a analise dos gastos do cartão e da nuconta mais fácil e simples. O projeto é aberto, e principal objetivo é ajudar no controle financeiro
 
-1 - Realizar o download e instalar o Power BI Desktop. <br>
+Para executar o projeto, siga os seguintes passos:</br>
+
+ - Faça o download e instale o Power BI Desktop. <br>
     Link: <a href="https://www.microsoft.com/pt-BR/download/details.aspx?id=58494">Link para download</a></br>
     Dica: baixe a versão de 64 bits</br></br>
     
-2 - Importar o notebook para sua conta do google colab. <br>
+ - Importe o notebook para sua conta do google colab. <br>
     Link: <a href="https://colab.research.google.com/notebooks/intro.ipynb#recent=true">Link para download</a></br></br>
     ![importNotebook](https://user-images.githubusercontent.com/28153841/91622967-84f87480-e967-11ea-9ce6-5abf0e9d66ca.jpg)
 
-3 - Após a importação, preencha seus dados no notebook 
+ - Após a importação, preencha seus dados no notebook 
     ![preence](https://user-images.githubusercontent.com/28153841/91624224-00a8f000-e96d-11ea-970e-9c7a58bce1f2.png)
 
-5 - Aperte CTRL + F9 e execute todas as células
+ - Aperte CTRL + F9 e execute todas as células
 
-3 - Siga os passos no arquivo do Colab</br></br>
+ - Siga os passos no arquivo do Colab</br></br>
 
-4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
+ - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
  
  - Na parte superior, clique em "Transformar dados". <br/>
  
