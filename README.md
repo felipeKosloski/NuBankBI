@@ -41,7 +41,7 @@ Siga os passos a seguir para selecionar a fonte de dados:
  ![WhatsApp Image 2020-08-28 at 20 20 25](https://user-images.githubusercontent.com/28153841/91624039-21bd1100-e96c-11ea-9106-5e4ed07cecfd.jpeg)
  
  
-
+Com esses passos, o BI estará atualiza e sempre que quiser atualizar como novos dados, volte para a seção de execução no notebook "- Aperte CTRL + F9 e execute todas as células".
 
 
 
