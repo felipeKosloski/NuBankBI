@@ -18,3 +18,22 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
 3 - Siga os passos no arquivo do Colab</br></br>
 
 4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.
+
+Siga os passos a seguir para selecionar a fonte de dados:
+
+ - Na parte lateral, clique na engrenagem ao lado direito do item "Fonte" </br>
+
+![WhatsApp Image 2020-08-28 at 20 02 05](https://user-images.githubusercontent.com/28153841/91623690-5e880880-e96a-11ea-9cf3-951bd08a758f.jpeg)
+
+ - Selecione o arquivo no diretório em que salvou os arquivos baixados no passo anterior</br>
+ 
+![WhatsApp Image 2020-08-28 at 20 02 26](https://user-images.githubusercontent.com/28153841/91623689-5cbe4500-e96a-11ea-9e42-03ff5b52afac.jpeg)
+
+![WhatsApp Image 2020-08-28 at 20 02 44](https://user-images.githubusercontent.com/28153841/91623687-5af48180-e96a-11ea-98d4-f5083def830c.jpeg)
+
+ - Repita o passo para a tabela "cartão" 
+
+![WhatsApp Image 2020-08-28 at 20 03 16](https://user-images.githubusercontent.com/28153841/91623682-55973700-e96a-11ea-8a55-602cd48e76e3.jpeg)
+
+
+
