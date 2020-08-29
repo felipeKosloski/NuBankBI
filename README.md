@@ -17,7 +17,11 @@ Para executar o projeto e visualizar suas finanças de maneira simples você vai
 
 3 - Siga os passos no arquivo do Colab</br></br>
 
-4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.
+4 - Na 1° vez que for executar, será necessário selecionar as fontes de dados corretas, nas outras vezes, será necessário somente clicar em atualizar.</br>
+ 
+ - Na parte superior, clique em "Transformar dados". <br/>
+ 
+ ![nu1](https://user-images.githubusercontent.com/28153841/91623870-57152f00-e96b-11ea-88c9-ff7303790c25.png)
 
 Siga os passos a seguir para selecionar a fonte de dados:
 
